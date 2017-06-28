@@ -2,7 +2,7 @@
 
 #### 来都来了,不妨给个star
 
-![](![](https://ws4.sinaimg.cn/large/006tKfTcly1fh0w5n3g3bg30cx0dhqnm.gif))
+![image](https://raw.githubusercontent.com/luziming/Note/master/image/nainai.gif)
 
 1. [照相选相册，裁剪的 library TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 
