@@ -1,5 +1,9 @@
 ## 优秀github项目整理
 
+#### 来都来了,不妨给个star
+
+![](![](https://ws4.sinaimg.cn/large/006tKfTcly1fh0w5n3g3bg30cx0dhqnm.gif))
+
 1. [照相选相册，裁剪的 library TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 
 2. [几行代码快速集成二维码扫描功能](https://github.com/yipianfengye/android-zxingLibrary)
@@ -102,3 +106,6 @@
 54. [图片选择库](https://github.com/yanzhenjie/Album)
 55. [开发人员不得不收藏的代码,各种Utils](http://www.jianshu.com/p/72494773aace)
 56. [沉浸式状态栏和沉浸式导航栏管理，一句代码轻松实现,也可解决EditText和软键盘的问题](https://github.com/gyf-dev/ImmersionBar)
+57. [一分钟实现横竖时间轴](https://github.com/open-android/Timeline)
+58. [优雅的使用侧滑返回](https://juejin.im/post/595123565188250d781cd7c1)
+59. [50篇技术干货](https://juejin.im/post/5940e0f6128fe1006a0d6cd9)
