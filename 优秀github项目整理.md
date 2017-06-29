@@ -109,3 +109,4 @@
 57. [一分钟实现横竖时间轴](https://github.com/open-android/Timeline)
 58. [优雅的使用侧滑返回](https://juejin.im/post/595123565188250d781cd7c1)
 59. [50篇技术干货](https://juejin.im/post/5940e0f6128fe1006a0d6cd9)
+60. [贝塞尔曲线](https://github.com/leibing8912/BezierCurveShoppingCart)
